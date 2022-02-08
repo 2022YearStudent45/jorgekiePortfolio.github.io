@@ -1,6 +1,6 @@
 .thumbnail{ 
   background-color:#ffa781;
-  width: 150px;
+  width: 200px;
   border: 10px solid #5b0e2d;
   padding: 50px;
   margin: 10px;
@@ -8,8 +8,10 @@
   display: flex;
   justify-content: space-around; 
   color: white;
-  margin-left:350px;
-  height: 90px;
+  margin-left:370px;
+  height: 150px;
+  font-size: 180%;
+  font-family: 'IM Fell English SC', serif;
 }
 div {
   background-color:#ffa781;
@@ -21,7 +23,7 @@ div {
   display: flex;
   justify-content: space-around; 
   color: white;
-  margin-left:100px;
+  margin-left:90px;
 }
 
 
@@ -32,11 +34,19 @@ body{
 
 h1 {
     color:white;
-    margin-left:200px;
+    margin-left:195px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+h4 { 
+    margin-left: 270px;   
 }
 
 img {
     color:white;
+    width: 160px;
+    height: 180px;
+    margin-left: 20px;
 }
 
 li {
@@ -49,20 +59,7 @@ li {
   display: flex;
   justify-content: space-around; 
   color: white;
-  margin-left:10px;
+  margin-left:30px;
   height: 40px;
-}
-}
-
-li {
-  background-color:#ffa781;
-  width: 70px;
-  border: 10px solid #5b0e2d;
-  padding: 30px;
-  margin: 10px;
-  text-align:center;
-  display: flex;
-  justify-content: space-around; 
-  color: white;
-  margin-left:10px;
+  font-family: 'IM Fell English SC', serif;
 }
