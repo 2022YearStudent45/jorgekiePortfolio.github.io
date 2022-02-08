@@ -1,6 +1,47 @@
 .thumbnail{ 
   background-color:#ffa781;
-  width: 400px;
+  width: 150px;
+  border: 10px solid #5b0e2d;
+  padding: 50px;
+  margin: 10px;
+  text-align:center;
+  display: flex;
+  justify-content: space-around; 
+  color: white;
+  margin-left:350px;
+  height: 90px;
+}
+div {
+  background-color:#ffa781;
+  width: 500px;
+  border: 10px solid #5b0e2d;
+  padding: 30px;
+  margin: 10px;
+  text-align:center;
+  display: flex;
+  justify-content: space-around; 
+  color: white;
+  margin-left:100px;
+}
+
+
+
+body{
+    background:url(https://wallpaper.dog/large/20366996.jpg);
+}
+
+h1 {
+    color:white;
+    margin-left:200px;
+}
+
+img {
+    color:white;
+}
+
+li {
+  background-color:#ffa781;
+  width: 150px;
   border: 10px solid #5b0e2d;
   padding: 30px;
   margin: 10px;
@@ -9,30 +50,8 @@
   justify-content: space-around; 
   color: white;
   margin-left:10px;
+  height: 40px;
 }
-div {
-  background-color:#ffa781;
-  width: 500px;
-  border: 10px solid #5b0e2d;
-  padding: 40px;
-  margin: 10px;
-  text-align:center;
-  display: flex;
-  justify-content: space-around; 
-  color: white;
-  margin-left:150px;
-}
-
-body{
-    background:url(https://wallpaper.dog/large/20366996.jpg);
-}
-
-h1 {
-    color:white;
-}
-
-img {
-    color:white;
 }
 
 li {
