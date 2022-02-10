@@ -1,4 +1,4 @@
-.thumbnail{ 
+thumbnail{ 
   background-color:#ffa781;
   width: 250px;
   border: 10px solid #5b0e2d;
@@ -24,6 +24,7 @@ div {
   justify-content: space-around; 
   color: white;
   margin-left:160px;
+  font-family: 'IM Fell English SC', serif;
 }
 
 
